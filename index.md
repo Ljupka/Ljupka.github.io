@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am a Software and Data Engineer at Capgemini in Berlin enthusiastic about Machine Learning for Health
+Hi there! I am Ljupka 
 
 ## Research Interests
 
+- **Machine Learning:** generative AI, bias, trustworthiness, privacy
 - **Computer Vision:** image recognition, image segmentation, image generation, diagnosis
-- **Machine Learning:** bias, trustworthiness, privacy, generative AI
+
 
 
 {% include_relative _includes/publications.md %}
