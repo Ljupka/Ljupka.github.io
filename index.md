@@ -9,7 +9,7 @@ Hi there! I am a Software and Data Engineer at Capgemini in Berlin enthusiastic 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image segmentation, image generation, diagnosis
-- **Machine Learning:** bias, trustwothiness, privacy, generative AI
+- **Machine Learning:** bias, trustworthiness, privacy, generative AI
 
 
 {% include_relative _includes/publications.md %}
