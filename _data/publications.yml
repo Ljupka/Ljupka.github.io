@@ -2,12 +2,12 @@ main:
   - title: "GenAI and NLP projects at Capgemini"
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Full Time; Research and practical applications of GenAI and NLP based tools.
-    image: ./assets/img/indoor_map.png
+    image: ./assets/img/teaser_example.png
 
   - title: "CNN-based survival prediction of patients with pancreatic cancer"
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Part-Time; Medical Imaging; Preparation of CT data to recreate MICCAI challenge scores. Hyperparameter tuning and model validation
-    image: ./assets/img/indoor_map.png
+    image: ./assets/img/teaser_example.png
 
   - title: "Detection and Positioning of Barriers to Augment Indoor Maps"
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
