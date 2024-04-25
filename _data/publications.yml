@@ -16,11 +16,11 @@ main:
 
   - title: Data visualization tool to facilitate registration of 3D models
     image: ./assets/img/meshes2.png
-    notes: Rendering contour lines to evaluate non-rigid registration for soft tissue deformation; National Center for Tumor Diseases Dresden, under supervision of Dr. Georges Hattab; Three.js Node.js JavaScript; 
+    notes: Research Project; Rendering contour lines to evaluate non-rigid registration for soft tissue deformation; National Center for Tumor Diseases Dresden, under supervision of Dr. Georges Hattab; Three.js, Node.js, JavaScript 
     
   - title: Interaction with 3D medical data
     page: 
-    notes: Gesture development for interacting with CT-Scans with Augmented Reality; Interactive Media Lab Dresden at TU Dresden; Practical Group Project; C++, HoloLens, LeapMotion, Unity
+    notes:  Practical Group Project; Gesture development for interacting with CT-Scans with Augmented Reality; Interactive Media Lab Dresden at TU Dresden; C++, HoloLens, LeapMotion, Unity
     image: ./assets/img/Schnitt_2.png
 
   - title: Interface for Active Learning
