@@ -1,16 +1,16 @@
 main:
   - title: "GenAI and NLP projects at Capgemini"
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: 
     notes: Full Time; Research and practical applications of GenAI and NLP-based tools.
     image: ./assets/img/teaser_example.png
 
   - title: "CNN-based survival prediction of patients with pancreatic cancer"
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: 
     notes: Part-Time; Medical Imaging; Preparation of CT data to recreate MICCAI challenge scores. Hyperparameter tuning and model validation
     image: ./assets/img/teaser_example.png
 
   - title: "Detection and Positioning of Barriers to Augment Indoor Maps"
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: 
     notes: Master's Thesis; Deep Learning-based indoor positioning system to facilitate navigation of visually- and mobility-impaired people; Object Detection, PyTorch, django, React; Chair of Human-Computer Interaction, TU Dresden
     image: ./assets/img/indoor_map.png
     image: ./assets/img/detected_objects.png
@@ -20,12 +20,12 @@ main:
     notes: Rendering contour lines to evaluate non-rigid registration for soft tissue deformation; Nationales Center for Tumor Diseases Dresden, under supervision of Dr. Georges Hattab; Three.js Node.js JavaScript; 
     
   - title: "Interaction with 3D medical data"
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: 
     notes: Gesture development for interacting with CT-Scans with Augmented Reality; Interactive Media Lab Dresden at TU Dresden; Practical Group Project; C++, HoloLens, LeapMotion, Unity
     image: ./assets/img/Schnitt.png
 
   - title: "Interface for Active Learning"
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    page: 
     notes: Group project for developing an annotation interface for to enable training neural networks with human in the loop
     image: ./assets/img/interface.png
 
