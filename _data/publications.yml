@@ -1,5 +1,10 @@
 main:
 
+  - title: "CNN-based survival prediction of patients with pancreatic cancer"
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Part-Time Job; Medical Imaging; Preparation of CT data to recreate MICCAI challenge scores. Hyperparameter tuning and model validation
+    image: ./assets/img/indoor_map.png
+
   - title: "Detection and Positioning of Barriers to Augment Indoor Maps"
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Master's Thesis; Deep Learning-based indoor positioning system to facilitate navigation of visually- and mobility-impaired people;
