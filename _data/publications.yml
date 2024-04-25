@@ -1,35 +1,34 @@
 main:
-  - title: "GenAI and NLP projects at Capgemini"
+  - title: GenAI and NLP projects at Capgemini
     page: 
     notes: Full Time; Research and practical applications of GenAI and NLP-based tools.
     image: ./assets/img/teaser_example.png
 
-  - title: "CNN-based survival prediction of patients with pancreatic cancer"
+  - title: CNN-based survival prediction of patients with pancreatic cancer
     page: 
     notes: Part-Time; Medical Imaging; Preparation of CT data to recreate MICCAI challenge scores. Hyperparameter tuning and model validation
     image: ./assets/img/teaser_example.png
 
-  - title: "Detection and Positioning of Barriers to Augment Indoor Maps"
+  - title: Detection and Positioning of Barriers to Augment Indoor Maps
     page: 
     notes: Master's Thesis; Deep Learning-based indoor positioning system to facilitate navigation of visually- and mobility-impaired people; Object Detection, PyTorch, django, React; Chair of Human-Computer Interaction, TU Dresden
     image: ./assets/img/indoor_map.png
-    image: ./assets/img/detected_objects.png
 
   - title: Data visualization tool to facilitate registration of 3D models
     image: ./assets/img/meshes2.png
     notes: Rendering contour lines to evaluate non-rigid registration for soft tissue deformation; Nationales Center for Tumor Diseases Dresden, under supervision of Dr. Georges Hattab; Three.js Node.js JavaScript; 
     
-  - title: "Interaction with 3D medical data"
+  - title: Interaction with 3D medical data
     page: 
     notes: Gesture development for interacting with CT-Scans with Augmented Reality; Interactive Media Lab Dresden at TU Dresden; Practical Group Project; C++, HoloLens, LeapMotion, Unity
-    image: ./assets/img/Schnitt.png
+    image: ./assets/img/Schnitt_2.png
 
-  - title: "Interface for Active Learning"
+  - title: Interface for Active Learning
     page: 
     notes: Group project for developing an annotation interface for to enable training neural networks with human in the loop
-    image: ./assets/img/interface.png
+    image: ./assets/img/interface_2.png
 
-  - title: "Tool for extracting relational data from Excel-Spreadsheets to support cell classification"
+  - title: Tool for extracting relational data from Excel-Spreadsheets to support cell classification
     page: https://wwwdb.inf.tu-dresden.de/research-projects/deexcelarator/
     notes: Bachelor Thesis; TU Dresden, Database Chair 
     image: ./assets/img/cell_classification.png
