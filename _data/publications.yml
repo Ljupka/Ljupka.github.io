@@ -16,8 +16,8 @@ main:
     
   - title: "Detection and Positioning of Barriers to Augment Indoor Maps"
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Deep Learning-based indoor positioning system to facilitate navigation of visually- and mobility-impaired people;
-    Object Detection pytorch django React; Chair of Human-Computer Interaction, TU Dresden
+    notes: Master's Thesis; Deep Learning-based indoor positioning system to facilitate navigation of visually- and mobility-impaired people;
+    Object Detection, PyTorch, django, React; Chair of Human-Computer Interaction, TU Dresden
     image: ./assets/img/teaser_example.png
 
   - title: "Tool for extracting relational data from Excel-Spreadsheets to support cell classification"
