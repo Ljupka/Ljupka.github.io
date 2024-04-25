@@ -1,18 +1,18 @@
 main:
 
   - title: Data visualization tool to facilitate registration of 3D models
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/meshes2.png
     notes: Rendering contour lines to evaluate non-rigid registration for soft tissue deformation; Nationales Center for Tumor Diseases Dresden, under supervision of Dr. Georges Hattab; Three.js Node.js JavaScript; 
     
   - title: "Interaction with 3D medical data"
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Gesture development for interacting with CT-Scans with Augmented Reality; Interactive Media Lab Dresden at TU Dresden; Practical Group Project; C++, HoloLens, LeapMotion, Unity
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/Schnitt.png
 
   - title: "Interface for Active Learning"
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Group project for developing an annotation interface for to enable training neural networks with human in the loop
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/interface.png
     
   - title: "Detection and Positioning of Barriers to Augment Indoor Maps"
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
