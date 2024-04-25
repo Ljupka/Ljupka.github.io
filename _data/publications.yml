@@ -6,7 +6,7 @@ main:
 
   - title: CNN-based survival prediction of patients with pancreatic cancer
     page: 
-    notes: Part-Time; Medical Imaging; Preparation of CT data to recreate MICCAI challenge scores. Hyperparameter tuning and model validation
+    notes: Part-Time; Medical Imaging; Preparation of CT data to recreate MICCAI challenge scores. Hyperparameter tuning and model validation; National Center for Tumor Diseases Dresden
     image: ./assets/img/teaser_example.png
 
   - title: Detection and Positioning of Barriers to Augment Indoor Maps
@@ -16,7 +16,7 @@ main:
 
   - title: Data visualization tool to facilitate registration of 3D models
     image: ./assets/img/meshes2.png
-    notes: Rendering contour lines to evaluate non-rigid registration for soft tissue deformation; Nationales Center for Tumor Diseases Dresden, under supervision of Dr. Georges Hattab; Three.js Node.js JavaScript; 
+    notes: Rendering contour lines to evaluate non-rigid registration for soft tissue deformation; National Center for Tumor Diseases Dresden, under supervision of Dr. Georges Hattab; Three.js Node.js JavaScript; 
     
   - title: Interaction with 3D medical data
     page: 
