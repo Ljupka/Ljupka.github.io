@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! <script src="https://gist.github.com/rxaviers/7360908.js"></script> I am Ljupka! I am interested in AI for health and social impact 
+Hi there! 👋 I am Ljupka! I am interested in AI for health and social impact 
 
 ## Research Interests
 
