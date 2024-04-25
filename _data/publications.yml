@@ -22,7 +22,7 @@ main:
 
   - title: "Tool for extracting relational data from Excel-Spreadsheets to support cell classification"
     page: https://wwwdb.inf.tu-dresden.de/research-projects/deexcelarator/
-    notes: Bachelor Thesis; TU Drsesden, Database Chair 
+    notes: Bachelor Thesis; TU Dresden, Database Chair 
     image: ./assets/img/teaser_example.png
 
   
