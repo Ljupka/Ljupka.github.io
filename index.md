@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am Ljupka 
+Hi there!:wave: I am Ljupka! I am interested in AI for health and social impact 
 
 ## Research Interests
 
