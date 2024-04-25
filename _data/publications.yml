@@ -1,7 +1,7 @@
 main:
   - title: GenAI and NLP projects at Capgemini
     page: 
-    notes: Full Time; Research and practical applications of GenAI and NLP-based tools.
+    notes: Full Time; Research and practical applications of GenAI and NLP methods
     image: ./assets/img/teaser_example.png
 
   - title: CNN-based survival prediction of patients with pancreatic cancer
