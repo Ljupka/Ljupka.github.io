@@ -8,7 +8,7 @@ Hi there! 👋 I am Ljupka! I am interested in AI for health and social impact
 
 ## Research Interests
 
-- **Machine Learning:** generative AI, bias, trustworthiness, privacy
+- **Machine Learning:** generative AI, bias, trustworthiness, privacy, visualization
 - **Computer Vision:** image recognition, image segmentation, image generation, diagnosis
 
 
