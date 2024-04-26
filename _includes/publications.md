@@ -22,7 +22,6 @@
       </div>
     <div class="links">
       <div class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> {{link.pdf}}</div>
-      {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
