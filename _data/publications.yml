@@ -1,36 +1,48 @@
 main:
   - title: GenAI and NLP projects at Capgemini
-    page: 
-    notes: Full Time; Research and practical applications of GenAI and NLP methods
+    conference_short: Full Time
+    authors: Capgemini
+    conference: Research and practical applications of GenAI and NLP methods
     image: ./assets/img/chatgpt-green-circular-logo-22057.png
 
   - title: CNN-based survival prediction of patients with pancreatic cancer
-    page: 
-    notes: Part-Time; Medical Imaging; Preparation of CT data to recreate MICCAI challenge scores. Hyperparameter tuning and model validation; National Center for Tumor Diseases Dresden
+    page:
+    conference_short: Part Time
+    authors: National Center for Tumor Diseases Dresden
+    conference: Medical Imaging; Preparation of CT data to recreate MICCAI challenge scores. Hyperparameter tuning and model validation
     image: ./assets/img/pancreas.png
 
   - title: Detection and Positioning of Barriers to Augment Indoor Maps
     page: 
-    notes: Master's Thesis; Deep Learning-based indoor positioning system to facilitate navigation of visually- and mobility-impaired people; Object Detection, PyTorch, django, React; Chair of Human-Computer Interaction, TU Dresden
+    conference_short: Master's Thesis
+    authors: Chair of Human-Computer Interaction, TU Dresden
+    conference: Deep Learning-based indoor positioning system to facilitate navigation of visually- and mobility-impaired people; Object Detection, PyTorch, django, React
     image: ./assets/img/indoor_map.png
 
   - title: Data visualization tool to facilitate registration of 3D models
     image: ./assets/img/meshes2.png
-    notes: Research Project; Rendering contour lines to evaluate non-rigid registration for soft tissue deformation; National Center for Tumor Diseases Dresden, under supervision of Dr. Georges Hattab; Three.js, Node.js, JavaScript 
+    conference_short: Research Project 
+    authors: National Center for Tumor Diseases Dresden
+    conference: Rendering contour lines to evaluate non-rigid registration for soft tissue deformation; under supervision of Dr. Georges Hattab; Three.js, Node.js, JavaScript 
     
   - title: Interaction with 3D medical data
     page: 
-    notes:  Practical Group Project; Gesture development for interacting with CT-Scans with Augmented Reality; Interactive Media Lab Dresden at TU Dresden; C++, HoloLens, LeapMotion, Unity
+    conference_short: Practical Group Project
+    authors: Interactive Media Lab Dresden, TU Dresden
+    conference:  Gesture development for interacting with CT-Scans with Augmented Reality; C++, HoloLens, LeapMotion, Unity
     image: ./assets/img/Schnitt_2.png
 
   - title: Interface for Active Learning
     page: 
-    notes: Group project for developing an annotation interface for surgical data to enable training neural networks with human in the loop; National Center for Tumor Diseases Dresden
+    conference_short: Group project
+    authors: National Center for Tumor Diseases Dresden
+    conference: annotation interface for surgical data to enable training neural networks with human in the loop
     image: ./assets/img/interface_2.png
 
   - title: Tool for extracting relational data from Excel-Spreadsheets to support cell classification
     page: https://wwwdb.inf.tu-dresden.de/research-projects/deexcelarator/
-    notes: Bachelor Thesis; TU Dresden, Database Chair 
+    conference_short: Bachelor Thesis
+    authors: Database Chair, TU Dresden
     image: ./assets/img/cell_classification.png
 
   
