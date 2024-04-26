@@ -11,6 +11,7 @@ main:
     authors: National Center for Tumor Diseases Dresden
     conference: Medical Imaging; Preparation of CT data to recreate MICCAI challenge scores. Hyperparameter tuning and model validation
     image: ./assets/img/pancreas.png
+    notes: image from https://arxiv.org/abs/1612.08230
 
   - title: Detection and Positioning of Barriers to Augment Indoor Maps
     page: 
