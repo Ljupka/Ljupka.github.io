@@ -32,13 +32,13 @@ main:
     code: Node.js
     
   - title: Interaction with 3D medical data
-    page: 
     conference_short: Practical Group Project
     authors: Interactive Media Lab Dresden, TU Dresden
     conference: Gesture development for interacting with CT-Scans with Augmented Reality; 
     pdf: C++
-    code: HoloLens, 
-    bibtex: LeapMotion, Unity
+    code: HoloLens
+    bibtex: LeapMotion
+    page: Unity
     image: ./assets/img/Schnitt_2.png
 
   - title: Interface for Active Learning
