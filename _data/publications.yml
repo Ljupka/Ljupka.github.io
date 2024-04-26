@@ -2,12 +2,12 @@ main:
   - title: GenAI and NLP projects at Capgemini
     page: 
     notes: Full Time; Research and practical applications of GenAI and NLP methods
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/chatgpt-green-circular-logo-22057.png
 
   - title: CNN-based survival prediction of patients with pancreatic cancer
     page: 
     notes: Part-Time; Medical Imaging; Preparation of CT data to recreate MICCAI challenge scores. Hyperparameter tuning and model validation; National Center for Tumor Diseases Dresden
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/pancreas.png
 
   - title: Detection and Positioning of Barriers to Augment Indoor Maps
     page: 
