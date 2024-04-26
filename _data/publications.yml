@@ -45,7 +45,7 @@ main:
     page: 
     conference_short: Group project
     authors: National Center for Tumor Diseases Dresden
-    conference: Annotation interface for surgical data to enable training neural networks with human in the loop
+    conference: Annotation interface for surgical data to enable training of Neural Networks with human in the loop
     image: ./assets/img/interface_2.png
 
   - title: Tool for extracting relational data from Excel-Spreadsheets to support cell classification
