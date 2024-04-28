@@ -22,16 +22,16 @@
       </div>
     <div class="links">
       {% if link.code %} 
-      <a href="{{link.pdf}}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;pointer-events: none;cursor: default;"> {{link.pdf}}</a>
+      <a href="{{link.pdf}}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;pointer-events:none;cursor:default;"> {{link.pdf}}</a>
       {% endif %}
       {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> {{link.code}}</a>
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;pointer-events:none;cursor:default;"> {{link.code}}</a>
       {% endif %}
       {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;pointer-events:none;cursor:default;">Project Page</a>
       {% endif %}
       {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> {{link.bibtex}}</a>
+      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;pointer-events:none;cursor:default;"> {{link.bibtex}}</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
