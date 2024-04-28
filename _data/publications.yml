@@ -37,8 +37,7 @@ main:
     conference: Gesture development for interacting with CT-Scans with Augmented Reality; 
     pdf: C++
     code: HoloLens
-    bibtex: LeapMotion
-    page: Unity
+    bibtex: Unity
     image: ./assets/img/Schnitt_2.png
 
   - title: Interface for Active Learning
