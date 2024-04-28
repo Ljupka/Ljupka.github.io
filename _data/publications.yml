@@ -46,6 +46,7 @@ main:
     authors: National Center for Tumor Diseases Dresden
     conference: Annotation interface for surgical data to enable training of Neural Networks with human in the loop
     image: ./assets/img/interface_2.png
+    note: image from Cholec80 dataset https://paperswithcode.com/dataset/cholec80
 
   - title: Tool for extracting relational data from Excel-Spreadsheets to support cell classification
     page: https://wwwdb.inf.tu-dresden.de/research-projects/deexcelarator/
