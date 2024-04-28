@@ -20,10 +20,9 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
-     <div class="btn btn-sm z-depth-0" role="button" style="font-size:12px;"> {{link.pdf}}</div>
     <div class="links">
       {% if link.code %} 
-      <a href="{{link.pdf}}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> {{link.pdf}}</a>
+      <a href="{{link.pdf}}" class="btn btn-sm z-depth-0 inactiveLink" role="button" target="_blank" style="font-size:12px;"> {{link.pdf}}</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"> {{link.code}}</a>
